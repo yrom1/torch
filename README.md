@@ -1,2 +1,0 @@
-# torch-tricks
-lets gooooo 🔥
